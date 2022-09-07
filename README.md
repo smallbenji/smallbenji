@@ -10,13 +10,7 @@
   </a>
 </div>
 
-<style>
-    .flexBox{
-        display: flex;
-    }
-</style>
-
-<div class="flexBox">
+<div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=smallbenji&show_icons=true&hide_border=true&theme=onedark"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallbenji&layout=compact&theme=onedark"/>
 </div>
