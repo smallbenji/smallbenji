@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<div style="display: flex;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=smallbenji&show_icons=true&hide_border=true&theme=onedark"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallbenji&layout=compact&theme=onedark"/>
 </div>
