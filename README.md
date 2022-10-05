@@ -9,8 +9,3 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=smallbenji&show_icons=true&hide_border=true&theme=onedark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallbenji&layout=compact&theme=onedark"/>
-</div>
