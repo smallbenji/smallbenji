@@ -10,7 +10,7 @@ I started coding when I was around 10 years old, and have coded ever since. My f
 * 🖥️  See my portfolio at [smallbenji.tech](http://smallbenji.tech)
 * ✉️  You can contact me at [emaildotexample1@gmail.com](mailto:emaildotexample1@gmail.com)
 * 🚀  I'm currently working on [fynsdistrikt.dk](http://fynsdistrikt.smallbenji.tech)
-* 🧠  I'm learning Vite
+* 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
