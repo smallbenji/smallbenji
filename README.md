@@ -8,10 +8,8 @@ I started coding when I was around 10 years old, and have coded ever since. My f
 
 * 🌍  I'm based in Denmark
 * 🖥️  See my portfolio at [smallbenji.tech](http://smallbenji.tech)
-* ✉️  You can contact me at [emaildotexample1@gmail.com](mailto:emaildotexample1@gmail.com)
-* 🚀  I'm currently working on [fynsdistrikt.dk](http://fynsdistrikt.smallbenji.tech)
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on interesting projects
+* 💾  Currently learning to use Kubernetes
+
 
 ### Skills
 
