@@ -27,6 +27,9 @@
     - Postgresql
     - Microsft SQL
     - MongoDB
+- Server management:
+    - Tofu (Terraform)
+    - Ansible
 
 ## My self hosted environment
 
