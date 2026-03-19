@@ -25,7 +25,7 @@
     - Laravel
 - Databases
     - Postgresql
-    - Microsft SQL
+    - Microsoft SQL
     - MongoDB
 - Server management:
     - Tofu (Terraform)
