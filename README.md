@@ -9,23 +9,22 @@
 ---
 
 ### Toolbelt
+- OS
+    - Arch Linux
 - IDE
-    - Visual Studio
     - Visual Studio Code
-    - JetBrains Rider
-    - Notepad++
 - Languages
     - C#
     - Typescript / Javascript
     - Python
     - PHP
 - Frameworks
-    - Vue
+    - Vue (2 & 3)
     - React
     - Laravel
 - Databases
-    - Postgresql
-    - Microsoft SQL
+    - PostgreSQL
+    - MSSQL
     - MongoDB
 - Server management:
     - Tofu (Terraform)
