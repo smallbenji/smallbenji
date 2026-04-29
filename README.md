@@ -22,7 +22,6 @@
     - Vue (2 & 3)
     - React
     - Laravel
-<img src="https://skillicons.dev/icons?i=git,grafana,idea,jenkins&perline=3" />
 - Databases
     - PostgreSQL
     - MSSQL
