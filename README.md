@@ -1,21 +1,20 @@
-
 # `<code is life />`
 
 ### Interests
-- Kubernetes
-- Hardware (Components and such)
-- Software development (Primary Web Development atm.)
+- Building DataHubs (A place to unite departments, with the correct data)
+- Optimize workflows
+- A C# kiddo
 
 ---
 
 ### Toolbelt
 - OS
     - Arch Linux
+    - MacOS
 - IDE
     - Visual Studio Code
 - Languages
-    - C#
-    - Typescript / Javascript
+    - C# - Typescript / Javascript
     - Python
     - PHP
 - Frameworks
