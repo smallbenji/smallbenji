@@ -19,7 +19,7 @@
     - PHP
 - Frameworks
     - Vue (2 & 3)
-    - React
+    - ASP.NET Core
     - Laravel
 - Databases
     - PostgreSQL
