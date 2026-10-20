@@ -14,8 +14,8 @@
 - IDE
     - Visual Studio Code
 - Languages
-    - C# - Typescript / Javascript
-    - Python
+    - C#
+    - Typescript / Javascript
     - PHP
 - Frameworks
     - Vue (2 & 3)
